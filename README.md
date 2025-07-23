@@ -27,3 +27,4 @@ npm install react-router-dom
 npm run dev
 
 ```
+3. I created a lazy load module which loading the LazyLoad component using React Suspense and lazy

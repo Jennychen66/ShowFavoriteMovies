@@ -6,7 +6,8 @@ function NavBar() {
       <h1>Movie App</h1>
       <ul>
         <Link to="/" className= "nav-link"> Home </Link>
-        <Link to="/favorite">Favorite</Link>
+        <Link to="/favorite" className= "nav-link">Favorite</Link>
+        <Link to="/lazyload" className= "nav-link">Lazy Load</Link>
       </ul>
     </nav>
   )
